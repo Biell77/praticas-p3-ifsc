@@ -10,8 +10,5 @@ public class carro {
 	public void desligar() {
 		
 	}
-	public void acelerar() {
-		
-	}
 
 }
